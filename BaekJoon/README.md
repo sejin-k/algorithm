@@ -65,6 +65,7 @@
 
 <!-- 푼 문제 테이블 -->
 ## 🏆 **Completed**
+
 Name|Algorithm category|Platform
 --|--:|:--
 2281_데스노트|DP|Baekjoon
