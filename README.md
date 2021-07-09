@@ -4,6 +4,14 @@
 
 > Algorithms i've learned
 
+## 📃 Rules
+1. 매주 최소 **4문제** 씩
+2. **Commit Message**\
+    `[Solve] <사이트 이름> <문제 번호> <문제 이름>`\
+    Example
+    * [Solve] Beakjoon 9251 LCS
+    * [Solve] programmers level2 캐시
+
 <br />
 
 ## 🥇 Algorithm Sites
@@ -97,6 +105,7 @@
 
 Name|Algorithm category|Platform
 --|--:|:--
+11559_PuyoPuyo|구현|Beakjoon
 2281_데스노트|DP|Baekjoon
 1956_운동|탐색, 플로이드 와샬|Baekjoon
 9251_LCS|DP|Baekjoon
