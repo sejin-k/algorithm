@@ -68,6 +68,7 @@
 
 Name|Algorithm category|Platform
 --|--:|:--
+11559_PuyoPuyo|구현|Beakjoon
 2281_데스노트|DP|Baekjoon
 1956_운동|탐색, 플로이드 와샬|Baekjoon
 9251_LCS|DP|Baekjoon
