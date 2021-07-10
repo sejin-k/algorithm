@@ -17,6 +17,8 @@
 
     * LRU 알고리즘
         캐시
+        
+    쿼드압축 후 개수 세기
     
 </div>
 </details>
@@ -64,4 +66,5 @@
 
 Name|Algorithm category|Platform
 --|--:|:--
+쿼드압축 후 개수 세기|구현|Programmers
 캐시|자료구조|Programmers
