@@ -12,7 +12,16 @@
 </details>
 
 <details>
-<summary>Implementation</summary>
+<summary>자료구조</summary>
+<div markdown="1">
+
+    9935
+    
+</div>
+</details>
+
+<details>
+<summary>구현(Implementation)</summary>
 <div markdown="1">
 
     1000, 1001, 1008, 1330, 2460, 2557, 2750, 2753, 9498, 10171, 10172, 10430, 10718, 10869, 10998, 14681
@@ -68,6 +77,7 @@
 
 Name|Algorithm category|Platform
 --|--:|:--
+9935_문자열폭발|자료구조(stack)|Beakjoon
 11559_PuyoPuyo|구현|Beakjoon
 2281_데스노트|DP|Baekjoon
 1956_운동|탐색, 플로이드 와샬|Baekjoon
