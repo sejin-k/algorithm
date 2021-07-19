@@ -12,6 +12,16 @@
 </details>
 
 <details>
+<summary>자료구조</summary>
+<div markdown="1">
+
+    * Stack
+        괄호 회전하기
+    
+</div>
+</details>
+
+<details>
 <summary>Implementation</summary>
 <div markdown="1">
 
@@ -66,5 +76,6 @@
 
 Name|Algorithm category|Platform
 --|--:|:--
+괄호 회전하기|자료구조|Programmers
 쿼드압축 후 개수 세기|구현|Programmers
 캐시|자료구조|Programmers

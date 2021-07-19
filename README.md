@@ -105,6 +105,7 @@
 
 Name|Algorithm category|Platform
 --|--:|:--
+괄호 회전하기|자료구조|Programmers
 16918_봄버맨|구현|Beakjoon
 9935_문자열폭발|자료구조(stack)|Beakjoon
 쿼드압축 후 개수 세기|구현|Programmers
