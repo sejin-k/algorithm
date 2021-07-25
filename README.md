@@ -105,6 +105,8 @@
 
 Name|Algorithm category|Platform
 --|--:|:--
+2661_좋은수열|DFS|Beakjoon
+오픈채팅방|구현|Programmers
 괄호 회전하기|자료구조|Programmers
 16918_봄버맨|구현|Beakjoon
 9935_문자열폭발|자료구조(stack)|Beakjoon

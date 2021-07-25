@@ -76,6 +76,7 @@
 
 Name|Algorithm category|Platform
 --|--:|:--
+오픈채팅방|구현|Programmers
 괄호 회전하기|자료구조|Programmers
 쿼드압축 후 개수 세기|구현|Programmers
 캐시|자료구조|Programmers

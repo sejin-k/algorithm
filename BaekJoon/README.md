@@ -54,7 +54,7 @@
     * Search
         1956, 2309, 3584
     * DFS
-        1260
+        1260, 2661
     * BFS
         1260
     
@@ -77,6 +77,7 @@
 
 Name|Algorithm category|Platform
 --|--:|:--
+2661_좋은수열|DFS|Beakjoon
 16918_봄버맨|구현|Beakjoon
 9935_문자열폭발|자료구조(stack)|Beakjoon
 11559_PuyoPuyo|구현|Beakjoon
