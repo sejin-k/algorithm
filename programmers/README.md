@@ -15,8 +15,11 @@
 <summary>자료구조</summary>
 <div markdown="1">
 
-    * Stack
-        괄호 회전하기
+   * LRU 알고리즘\
+    캐시
+    
+   * Stack\
+    괄호 회전하기
     
 </div>
 </details>
@@ -25,10 +28,9 @@
 <summary>Implementation</summary>
 <div markdown="1">
 
-    * LRU 알고리즘
-        캐시
+    
         
-    쿼드압축 후 개수 세기
+    쿼드압축 후 개수 세기, 2개 이하로 다른 비트, 오픈채팅방
     
 </div>
 </details>
@@ -76,6 +78,7 @@
 
 Name|Algorithm category|Platform
 --|--:|:--
+2개 이하로 다른 비트|구현|Programmers
 오픈채팅방|구현|Programmers
 괄호 회전하기|자료구조|Programmers
 쿼드압축 후 개수 세기|구현|Programmers

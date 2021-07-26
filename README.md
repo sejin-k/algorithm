@@ -105,6 +105,7 @@
 
 Name|Algorithm category|Platform
 --|--:|:--
+2개 이하로 다른 비트|구현|Programmers
 2661_좋은수열|DFS|Beakjoon
 오픈채팅방|구현|Programmers
 괄호 회전하기|자료구조|Programmers
